@@ -37,7 +37,7 @@ prd_end_dt DATE,
 GO
 
 IF OBJECT_ID('bronze.crm_sales_details' , 'U') IS NOT NULL
-	DROP TABLE bronze.crm_cust_info;
+	DROP TABLE bronze.crm_sales_details;
 GO
 CREATE TABLE bronze.crm_sales_details (
 sls_ord_num NVARCHAR(50),
