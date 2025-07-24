@@ -40,5 +40,5 @@ Develop a modern data warehouse using SQL Server to consolidate the sales data, 
 
 
 ---
-About Me
+## About Me
 Hi, there! I'm liz, I am a grad in T&O data performance and enginnering. Let's stay in touch and feel free to connect with me.
