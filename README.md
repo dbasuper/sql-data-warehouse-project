@@ -24,3 +24,21 @@ Develop a modern data warehouse using SQL Server to consolidate the sales data, 
 -**Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+
+## Project Overview
+
+### This project involves
+
+-**Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecuture Bronze,Silver, and Gold layers.
+
+-**ETL Pipelines**: Extracting, transforming, and loading data from source systems into warehouse.
+
+-**Data Modeling**: Develop fast and dimension tables optimized for analytical queries.
+
+-**Analytics&Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
+
+
+---
+About Me
+Hi, there! I'm liz, I am a grad in T&O data performance and enginnering. Let's stay in touch and feel free to connect with me.
